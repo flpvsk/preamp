@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "pedals")(type "KiCad")(uri "/Volumes/hdd/Projects/kicad/symbols/pedals.kicad_sym")(options "")(descr ""))
+  (lib (name "R0904NB10KL-25KQ")(type "KiCad")(uri "/Volumes/hdd/Projects/kicad/konstrukt-kicad6/lib/R0904NB10KL-25KQ/R0904NB10KL-25KQ.kicad_sym")(options "")(descr ""))
 )
