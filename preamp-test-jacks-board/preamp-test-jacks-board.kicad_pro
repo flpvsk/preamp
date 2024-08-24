@@ -37,11 +37,11 @@
           "height": 1.524,
           "width": 1.524
         },
-        "silk_line_width": 0.12,
+        "silk_line_width": 0.15,
         "silk_text_italic": false,
-        "silk_text_size_h": 0.7999999999999999,
-        "silk_text_size_v": 0.7999999999999999,
-        "silk_text_thickness": 0.12,
+        "silk_text_size_h": 1.0,
+        "silk_text_size_v": 1.0,
+        "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
@@ -85,7 +85,7 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "warning",
+        "silk_over_copper": "ignore",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
@@ -357,7 +357,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "preamp-test.kicad_pro",
+    "filename": "preamp-test-jacks-board.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -365,9 +365,9 @@
       {
         "bus_width": 12.0,
         "clearance": 0.2,
-        "diff_pair_gap": 0.35,
+        "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.3,
+        "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -436,20 +436,8 @@
   },
   "sheets": [
     [
-      "b32c5c84-08fe-4778-b9cb-c40595e40f46",
+      "175eea94-48de-4bc3-af6b-247e10586528",
       ""
-    ],
-    [
-      "2553bce6-260c-4752-b246-91acf1072f63",
-      "Power Supply"
-    ],
-    [
-      "1387c991-f549-4d96-a514-01d7f6fb0524",
-      "Preamp"
-    ],
-    [
-      "5bd7acf4-aa69-4065-af41-922aa7c791ac",
-      "Line Driver"
     ]
   ],
   "text_variables": {}
