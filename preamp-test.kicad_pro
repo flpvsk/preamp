@@ -55,7 +55,24 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_over_copper|120249000|72050000|0e971124-7140-4437-8d7f-341b258a69dc|eb67eb9d-b928-4d92-b2d4-7d0c8685acc7",
+        "silk_over_copper|120249000|72050000|7d598f26-aea5-450c-a32f-654b623590a6|eb67eb9d-b928-4d92-b2d4-7d0c8685acc7",
+        "silk_over_copper|120249000|72050000|98ffe490-d1b0-49cd-9dc4-099987acc26c|eb67eb9d-b928-4d92-b2d4-7d0c8685acc7",
+        "silk_over_copper|120249000|72050000|f09603eb-e00e-44b2-82af-48c217afd687|eb67eb9d-b928-4d92-b2d4-7d0c8685acc7",
+        "silk_over_copper|121781485|79021294|f9c2b67c-3677-4e59-a46b-0681a869ab83|29ce6acc-8ea0-43e2-8ee0-01c14c0d46db",
+        "silk_over_copper|121900000|78400000|ba3b6b51-cea6-4e4c-942e-09f6e2bd40f8|29ce6acc-8ea0-43e2-8ee0-01c14c0d46db",
+        "silk_over_copper|121900000|78400000|fd32fd8b-edfe-4c8d-9500-84f491a1a245|29ce6acc-8ea0-43e2-8ee0-01c14c0d46db",
+        "silk_over_copper|122454261|78095293|f9c2b67c-3677-4e59-a46b-0681a869ab83|29ce6acc-8ea0-43e2-8ee0-01c14c0d46db",
+        "silk_over_copper|123551000|72050000|59c70332-6ddd-4ee3-a88b-27f076cc02f6|eb67eb9d-b928-4d92-b2d4-7d0c8685acc7",
+        "silk_over_copper|123551000|72050000|76400a55-97e1-413a-86eb-38fdf57fe28e|eb67eb9d-b928-4d92-b2d4-7d0c8685acc7",
+        "silk_over_copper|123551000|72050000|9664e8da-5d35-415e-8a91-23d56372a8a5|eb67eb9d-b928-4d92-b2d4-7d0c8685acc7",
+        "silk_over_copper|123551000|72050000|d376edfe-3247-4646-a6cd-fe698dd94b85|eb67eb9d-b928-4d92-b2d4-7d0c8685acc7",
+        "silk_over_copper|142479000|71858000|7fb6fd1b-af49-4134-8d09-5d189038cfd1|67de4f38-9f0d-47c2-8f0e-0f44f82159a6",
+        "silk_over_copper|142479000|71858000|d991ea9e-c652-43c2-9e9f-541d7c86f38b|67de4f38-9f0d-47c2-8f0e-0f44f82159a6",
+        "silk_over_copper|142536000|71858000|6c3c94d6-a262-4099-a067-c361f2956e3d|67de4f38-9f0d-47c2-8f0e-0f44f82159a6",
+        "silk_over_copper|142536000|71858000|d789c97a-8377-4d83-9ec1-674c421115e7|67de4f38-9f0d-47c2-8f0e-0f44f82159a6"
+      ],
       "meta": {
         "version": 2
       },
