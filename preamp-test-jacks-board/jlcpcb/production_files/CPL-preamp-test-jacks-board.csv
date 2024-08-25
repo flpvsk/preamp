@@ -1,0 +1,9 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Barrel_Jack_Switch,BarrelJack_GCT_DCJ200-10-A_Horizontal,108.95,-47.0,180.0,top
+J2,In,Jack_XLR_Neutrik_NC3FAH-0_Horizontal,146.6,-50.0,90.0,top
+J3,Ret,tayda-6mm35-jack-pcb-compact,93.8,-50.75,90.0,top
+J4,Out,Jack_XLR_Neutrik_NC3MAH-0_Horizontal,53.4,-50.0,180.0,top
+J5,Snd,tayda-6mm35-jack-pcb-compact,124.1,-50.75,90.0,top
+J6,Out,tayda-6mm35-jack-pcb-compact,76.0,-50.75,90.0,top
+J7,Conn_01x08_Male,Molex_Picoflex_90814-0008_2x04_P1.27mm_Vertical,146.5,-67.0,90.0,top
+J8,Conn_01x08_Male,Molex_Picoflex_90814-0008_2x04_P1.27mm_Vertical,53.5,-67.0,90.0,top

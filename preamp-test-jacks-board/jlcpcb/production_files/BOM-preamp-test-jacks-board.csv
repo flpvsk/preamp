@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC
+Conn_01x08_Male,J8,Molex_Picoflex_90814-0008_2x04_P1.27mm_Vertical,
+Out,J4,Jack_XLR_Neutrik_NC3MAH-0_Horizontal,
+Barrel_Jack_Switch,J1,BarrelJack_GCT_DCJ200-10-A_Horizontal,
+Conn_01x08_Male,J7,Molex_Picoflex_90814-0008_2x04_P1.27mm_Vertical,
+Out,J6,tayda-6mm35-jack-pcb-compact,
+Snd,J5,tayda-6mm35-jack-pcb-compact,
+In,J2,Jack_XLR_Neutrik_NC3FAH-0_Horizontal,
+Ret,J3,tayda-6mm35-jack-pcb-compact,
